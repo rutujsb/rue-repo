@@ -1,3 +1,3 @@
 # rue
 
-some Descriptionfor my first successful repository !
+some Descriptionfor my first successful repository ....!
